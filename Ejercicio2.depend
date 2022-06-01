@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1648355407 source:c:\users\laptop\desktop\hashmap-uh\contact.cpp
+	"Contact.h"
+	<string>
+
+1648355407 c:\users\laptop\desktop\hashmap-uh\contact.h
+	<iostream>
+
+1648447143 source:c:\users\laptop\desktop\tony\cucei\quinto semestre\estructuras de datos ll\ejercicio2\main.cpp
+	<iostream>
+	"Contact.h"
+	<string>
+	<fstream>
+	<list>
+	<vector>
+
+1648447136 source:c:\users\laptop\desktop\tony\cucei\quinto semestre\estructuras de datos ll\ejercicio2\contact.cpp
+	"Contact.h"
+	<string>
+
+1648447136 c:\users\laptop\desktop\tony\cucei\quinto semestre\estructuras de datos ll\ejercicio2\contact.h
+	<iostream>
+
+1648447136 c:\users\laptop\desktop\tony\cucei\quinto semestre\estructuras de datos ll\ejercicio2\contact.cpp
+	"Contact.h"
+	<string>
+
+1648450743 source:c:\users\laptop\desktop\tony\cucei\5 semestre (cucei)\estructuras de datos ll\ejercicio2\main.cpp
+	<iostream>
+	"Contact.h"
+	<string>
+	<fstream>
+	<list>
+	<vector>
+
+1648450736 c:\users\laptop\desktop\tony\cucei\5 semestre (cucei)\estructuras de datos ll\ejercicio2\contact.h
+	<iostream>
+

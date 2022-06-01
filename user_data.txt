@@ -1,0 +1,30 @@
+1 
+Nombre: fdg
+Numero: 34
+1 
+Nombre: fdg
+Numero: 34
+1 
+Nombre: fdg
+Numero: 43
+7 
+Nombre: asd
+Numero: 12
+7 
+Nombre: gf
+Numero: 34
+7 
+Nombre: gfd
+Numero: 43
+8 
+Nombre: fg
+Numero: 234
+8 
+Nombre: fg
+Numero: 34
+8 
+Nombre: fgd
+Numero: 43
+8 
+Nombre: fgd
+Numero: 34
